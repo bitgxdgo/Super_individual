@@ -1,0 +1,7 @@
+# Zevi's AI Development Workflow Commands
+# 这些是用于 AI 开发工作流程的快捷命令
+
+## 使用方法
+在 Cursor 中输入 /command-name 来触发相应的命令提示词
+详细的命令内容保存在 .cursor/commands/ 目录中
+
