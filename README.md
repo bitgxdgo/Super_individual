@@ -18,16 +18,16 @@
 
 ```mermaid
 graph LR
-    A[/explore] --> B[/create-plan]
-    B --> C[/execute]
-    C --> D[/review]
-    D --> E[/document]
+    A[/explore/] --> B[/create-plan/]
+    B --> C[/execute/]
+    C --> D[/review/]
+    D --> E[/document/]
     
-    F[/create-issue] -.-> A
-    D -.-> G[/peer-review]
+    F[/create-issue/] -.-> A
+    D -.-> G[/peer-review/]
     G -.-> D
     
-    H[/learning-opportunity] -.-> A
+    H[/learning-opportunity/] -.-> A
 ```
 
 ## 📋 命令概览
